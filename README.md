@@ -26,7 +26,6 @@ The analysis is detailed in the Jupyter notebook: [JK_prompt_II_Mod11.ipynb](JK_
 - 
 Model Results
 - Linear Regression: Moderate performance but sensitive to multicollinearity (high correlation) 
-- Linear Regression: Moderate performance but sensitive to multicollinearity (high correlation) 
 - Ridge Regression: More stable due to regularization in finding best alpha using grid search
 - Lasso Regression: Best for feature selection and eliminated unimportant features by shrinking their coefficients to zero
 
