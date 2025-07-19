@@ -16,3 +16,10 @@ The analysis is detailed in the Jupyter notebook: [JK_prompt_II_Mod11.ipynb](JK_
 - `JK_prompt_II_Mod11.ipynb.ipynb`: Main analysis notebook.
 - `purified_vehicles.csv`: Cleaned dataset output.
 - `vehicles.csv`: Original dataset.
+
+
+## Next Steps
+- Refine imputation for (condition) and (cylinders)
+- Explore polynomial features for nonlinear relationships , for example on (age)
+- Collect more data on missing features to improve model accuracy.
+- Test the model on new data to ensure generalizability.
