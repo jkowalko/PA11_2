@@ -23,3 +23,12 @@ The analysis is detailed in the Jupyter notebook: [JK_prompt_II_Mod11.ipynb](JK_
 - Explore polynomial features for nonlinear relationships , for example on (age)
 - Collect more data on missing features to improve model accuracy.
 - Test the model on new data to ensure generalizability.
+- 
+Model Results
+- Linear Regression: Moderate performance but sensitive to multicollinearity (high correlation) 
+- Linear Regression: Moderate performance but sensitive to multicollinearity (high correlation) 
+- Ridge Regression: More stable due to regularization in finding best alpha using grid search
+- Lasso Regression: Best for feature selection and eliminated unimportant features by shrinking their coefficients to zero
+
+Best Performing Model
+- Lasso Regression had the lowest RMSE (RMSE: 1.0404) and highest R² (R²: 0.2644), making it the most effective at predicting prices
