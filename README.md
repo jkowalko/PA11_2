@@ -10,7 +10,7 @@ This project predicts used car prices and identifies key drivers using linear re
 - **Recommendations based on Findings**: Buyers will prioritize newer, low-mileage cars while sellers can highlight these features to maximize value.
 
 ## Notebook
-The analysis is detailed in the Jupyter notebook: [JK_prompt_II_Mod11.ipynb](JK_prompt_II_Mod11.ipynb)
+The analysis is detailed in the Jupyter notebook: [JK_Practical_11_PriceofCar.ipynb](JK_Practical_11_PriceofCar.ipynb)
 
 ## Files
 - `JK_prompt_II_Mod11.ipynb.ipynb`: Main analysis notebook.
